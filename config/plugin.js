@@ -2,12 +2,12 @@
 
 /** @type Egg.EggPlugin */
 module.exports = {
-  mongoose : {
+  mongoose: {
     enable: true,
     package: 'egg-mongoose',
   },
   cors: {
     enable: true,
     package: 'egg-cors',
-  }
+  },
 };

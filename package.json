@@ -1,7 +1,7 @@
 {
-  "name": "dodo",
+  "name": "egg",
   "version": "1.0.0",
-  "description": "official-website op system server",
+  "description": "egg backend project",
   "private": true,
   "egg": {
     "declarations": true
@@ -28,8 +28,8 @@
     "node": ">=10.0.0"
   },
   "scripts": {
-    "start": "egg-scripts start --daemon --title=egg-server-dodo",
-    "stop": "egg-scripts stop --title=egg-server-dodo",
+    "start": "egg-scripts start --daemon --title=egg-server-egg",
+    "stop": "egg-scripts stop --title=egg-server-egg",
     "dev": "egg-bin dev",
     "debug": "egg-bin debug",
     "test": "npm run lint -- --fix && npm run test-local",
@@ -44,8 +44,8 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git@github.com:SxxPorsche/egg.git"
   },
-  "author": "tungee",
+  "author": "sx",
   "license": "MIT"
 }

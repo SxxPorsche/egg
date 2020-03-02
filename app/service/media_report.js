@@ -1,3 +1,4 @@
+'use strict';
 const Service = require('egg').Service;
 const fs = require('fs');
 const dayjs = require('dayjs');

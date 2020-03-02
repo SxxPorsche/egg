@@ -1,14 +1,15 @@
+'use strict';
 const Service = require('egg').Service;
 const path = require('path');
 const fse = require('fs-extra');
 
-const FILE_DIR = '../images';
+const FILE_DIR = path.resolve(__dirname, '..', 'files');
 
 class FileServices extends Service {
   async upload(data) {
-    const { hash, chunks } = data;
-    const chunkDir = path.resolve(FILE_DIR, chunks.filename);
-    return new Promise(async (resolve) => {
+    const { hash, chunks, filename } = data;
+    const chunkDir = path.resolve(FILE_DIR, filename);
+    return new Promise(async resolve => {
       if (!fse.existsSync(chunkDir)) {
         await fse.mkdirs(chunkDir);
       }
@@ -19,7 +20,11 @@ class FileServices extends Service {
   }
 
   async merge(filename) {
-    return new Promise((resolve) => {
+    const chunkDir = path.resolve(FILE_DIR, filename);
+    const chunkPaths = await fse.readdir(chunkDir);
+
+
+    return new Promise(resolve => {
       resolve(process.cwd());
     });
   }

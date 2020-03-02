@@ -1,5 +1,4 @@
 'use strict';
-const reportList = require('./app/data/report-list.json');
 
 class AppBootHook {
   constructor(app) {
@@ -12,7 +11,7 @@ class AppBootHook {
 
   async willReady() {
     // const { app } = this;
-    // const db = app.mongooseDB.get('dodo');
+    // const db = app.mongooseDB.get('egg');
     // reportList.forEach(async (item) => {
     //   await app.model.MediaReport.create(item);
     // });
