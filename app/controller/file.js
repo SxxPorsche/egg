@@ -19,8 +19,11 @@ class FileController extends Controller {
 
   async merge() {
     const { ctx, service } = this;
-    const { filename } = ctx.request.body;
-    const response = await service.file.merge(filename);
+    const { filename, size } = ctx.request.body;
+    const response = await service.file.merge({
+      filename,
+      size,
+    });
     ctx.returnBody(200, '上传成功', {
       response,
     });
