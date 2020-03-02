@@ -1,0 +1,320 @@
+{
+  "keys": "F:\\WebProjects\\dodo\\server\\config\\config.default.js",
+  "multipart": {
+    "mode": "F:\\WebProjects\\dodo\\server\\config\\config.default.js",
+    "fileExtensions": "F:\\WebProjects\\dodo\\server\\config\\config.default.js",
+    "autoFields": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultCharset": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldSize": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fields": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileSize": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "files": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "whitelist": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "tmpdir": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-multipart\\config\\config.default.js"
+    }
+  },
+  "mongoose": {
+    "clients": {
+      "dodo": {
+        "url": "F:\\WebProjects\\dodo\\server\\config\\config.default.js",
+        "options": "F:\\WebProjects\\dodo\\server\\config\\config.default.js"
+      }
+    },
+    "url": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-mongoose\\config\\config.default.js",
+    "options": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-mongoose\\config\\config.default.js",
+    "plugins": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-mongoose\\config\\config.default.js",
+    "loadModel": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-mongoose\\config\\config.default.js",
+    "app": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-mongoose\\config\\config.default.js",
+    "agent": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-mongoose\\config\\config.default.js"
+  },
+  "security": {
+    "csrf": {
+      "enable": "F:\\WebProjects\\dodo\\server\\config\\config.default.js",
+      "ignoreJSON": "F:\\WebProjects\\dodo\\server\\config\\config.default.js",
+      "type": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-security\\config\\config.default.js",
+      "useSession": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-security\\config\\config.default.js",
+      "cookieName": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-security\\config\\config.default.js",
+      "sessionName": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-security\\config\\config.default.js",
+      "headerName": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-security\\config\\config.default.js",
+      "bodyName": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-security\\config\\config.default.js",
+      "queryName": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-security\\config\\config.default.js",
+      "refererWhiteList": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "domainWhiteList": "F:\\WebProjects\\dodo\\server\\config\\config.default.js",
+    "protocolWhiteList": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-security\\config\\config.default.js",
+    "defaultMiddleware": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-security\\config\\config.default.js",
+    "xframe": {
+      "enable": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-security\\config\\config.local.js",
+      "maxAge": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-security\\config\\config.default.js",
+      "includeSubdomains": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-security\\config\\config.default.js",
+      "policy": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-security\\config\\config.default.js",
+      "checkAddress": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-security\\config\\config.default.js"
+    }
+  },
+  "cors": {
+    "credentials": "F:\\WebProjects\\dodo\\server\\config\\config.default.js",
+    "allMethods": "F:\\WebProjects\\dodo\\server\\config\\config.default.js"
+  },
+  "user": {
+    "userName": "F:\\WebProjects\\dodo\\server\\config\\config.default.js",
+    "password": "F:\\WebProjects\\dodo\\server\\config\\config.default.js",
+    "isMaster": "F:\\WebProjects\\dodo\\server\\config\\config.default.js"
+  },
+  "session": {
+    "maxAge": "F:\\WebProjects\\dodo\\server\\config\\config.default.js",
+    "key": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-session\\config\\config.default.js",
+    "httpOnly": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-session\\config\\config.default.js",
+    "encrypt": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-session\\config\\config.default.js"
+  },
+  "helper": {
+    "shtml": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "callback": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "csrf": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-onerror\\config\\config.default.js",
+    "templatePath": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-i18n\\config\\config.default.js",
+    "dirs": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-i18n\\config\\config.default.js",
+    "queryField": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieField": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieDomain": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-watcher\\config\\config.default.js",
+      "development": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-schedule\\config\\config.default.js",
+      "file": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-schedule\\config\\config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-schedule\\config\\config.default.js"
+  },
+  "development": {
+    "watchDirs": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-development\\config\\config.default.js",
+    "ignoreDirs": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-development\\config\\config.default.js",
+    "fastReady": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-development\\config\\config.default.js",
+    "reloadOnDebug": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideDefault": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-development\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFiles": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxDays": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-logrotator\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-static\\config\\config.default.js",
+    "dir": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-static\\config\\config.default.js",
+    "dynamic": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-static\\config\\config.default.js",
+    "preload": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-static\\config\\config.default.js",
+    "buffer": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-static\\config\\config.default.js",
+    "maxFiles": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-static\\config\\config.default.js"
+  },
+  "view": {
+    "root": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-view\\config\\config.default.js",
+    "cache": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-view\\config\\config.local.js",
+    "defaultExtension": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-view\\config\\config.default.js",
+    "defaultViewEngine": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-view\\config\\config.default.js",
+    "mapping": "F:\\WebProjects\\dodo\\server\\node_modules\\egg-view\\config\\config.default.js"
+  },
+  "env": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+  "name": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+  "cookies": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+  "proxy": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+  "maxIpsCount": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+  "maxProxyCount": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+  "protocolHeaders": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+  "ipHeaders": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+  "hostHeaders": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+  "pkg": {
+    "name": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+    "version": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+    "description": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+    "private": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+    "egg": {
+      "declarations": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js"
+    },
+    "dependencies": {
+      "egg": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+      "egg-scripts": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+      "egg-mongoose": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+      "egg-cors": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+      "dayjs": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+      "shelljs": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+      "fs-extra": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "autod": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+      "autod-egg": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+      "egg-bin": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+      "egg-ci": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+      "egg-mock": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+      "eslint": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+      "eslint-config-egg": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js"
+    },
+    "engines": {
+      "node": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js"
+    },
+    "scripts": {
+      "start": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+      "stop": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+      "dev": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+      "debug": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+      "test": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+      "test-local": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+      "cov": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+      "lint": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+      "ci": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+      "autod": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js"
+    },
+    "ci": {
+      "version": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js"
+    },
+    "repository": {
+      "type": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+      "url": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js"
+    },
+    "author": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+    "license": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js"
+  },
+  "baseDir": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+  "HOME": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+  "rundir": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+    "notFound": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+    "sitefile": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+    "middlewares": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+    "httpClient": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+    "formLimit": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+    "jsonLimit": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+    "textLimit": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+    "strict": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+      "depth": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+      "parameterLimit": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js"
+    },
+    "onerror": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js"
+  },
+  "logger": {
+    "dir": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+    "env": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+    "level": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+    "consoleLevel": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+    "outputJSON": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+    "buffer": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+    "appLogName": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+    "coreLogName": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+    "agentLogName": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+    "errorLogName": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+    "request": {
+      "timeout": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+    "logging": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+  "workerStartTimeout": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+  "serverTimeout": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+      "port": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+      "hostname": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js",
+    "responseTimeout": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js"
+  },
+  "onClientError": "F:\\WebProjects\\dodo\\server\\node_modules\\egg\\config\\config.default.js"
+}

@@ -1,0 +1,1622 @@
+2020-02-17 15:14:37,895 WARN 13864 [-/127.0.0.1/-/32ms POST /login] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2020-02-17 15:14:37,898 WARN 13864 [-/127.0.0.1/-/35ms POST /login] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (F:\WebProjects\dodo\server\node_modules\koa\lib\context.js:97:11)
+    at Object.assertCsrf (F:\WebProjects\dodo\server\node_modules\egg-security\app\extend\context.js:162:19)
+    at csrf (F:\WebProjects\dodo\server\node_modules\egg-security\lib\middlewares\csrf.js:33:9)
+    at dispatch (F:\WebProjects\dodo\server\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at F:\WebProjects\dodo\server\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (F:\WebProjects\dodo\server\node_modules\koa-session\index.js:41:13)
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at overrideMethod (F:\WebProjects\dodo\server\node_modules\koa-override\index.js:38:12)
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at bodyParser (F:\WebProjects\dodo\server\node_modules\koa-bodyparser\index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+message: "invalid csrf token"
+pid: 13864
+hostname: DESKTOP-5TBUIJO
+
+2020-02-17 15:16:10,907 WARN 13864 [-/127.0.0.1/-/0ms POST /login] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2020-02-17 15:16:10,909 WARN 13864 [-/127.0.0.1/-/2ms POST /login] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (F:\WebProjects\dodo\server\node_modules\koa\lib\context.js:97:11)
+    at Object.assertCsrf (F:\WebProjects\dodo\server\node_modules\egg-security\app\extend\context.js:162:19)
+    at csrf (F:\WebProjects\dodo\server\node_modules\egg-security\lib\middlewares\csrf.js:33:9)
+    at dispatch (F:\WebProjects\dodo\server\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at F:\WebProjects\dodo\server\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (F:\WebProjects\dodo\server\node_modules\koa-session\index.js:41:13)
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at overrideMethod (F:\WebProjects\dodo\server\node_modules\koa-override\index.js:38:12)
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at bodyParser (F:\WebProjects\dodo\server\node_modules\koa-bodyparser\index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+message: "invalid csrf token"
+pid: 13864
+hostname: DESKTOP-5TBUIJO
+
+2020-02-17 15:23:59,656 WARN 13864 [-/127.0.0.1/-/1ms POST /login] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2020-02-17 15:23:59,657 WARN 13864 [-/127.0.0.1/-/2ms POST /login] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (F:\WebProjects\dodo\server\node_modules\koa\lib\context.js:97:11)
+    at Object.assertCsrf (F:\WebProjects\dodo\server\node_modules\egg-security\app\extend\context.js:162:19)
+    at csrf (F:\WebProjects\dodo\server\node_modules\egg-security\lib\middlewares\csrf.js:33:9)
+    at dispatch (F:\WebProjects\dodo\server\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at F:\WebProjects\dodo\server\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (F:\WebProjects\dodo\server\node_modules\koa-session\index.js:41:13)
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at overrideMethod (F:\WebProjects\dodo\server\node_modules\koa-override\index.js:38:12)
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at bodyParser (F:\WebProjects\dodo\server\node_modules\koa-bodyparser\index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+message: "invalid csrf token"
+pid: 13864
+hostname: DESKTOP-5TBUIJO
+
+2020-02-17 15:25:20,189 WARN 13864 [-/127.0.0.1/-/1ms POST /login] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2020-02-17 15:25:20,190 WARN 13864 [-/127.0.0.1/-/2ms POST /login] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (F:\WebProjects\dodo\server\node_modules\koa\lib\context.js:97:11)
+    at Object.assertCsrf (F:\WebProjects\dodo\server\node_modules\egg-security\app\extend\context.js:162:19)
+    at csrf (F:\WebProjects\dodo\server\node_modules\egg-security\lib\middlewares\csrf.js:33:9)
+    at dispatch (F:\WebProjects\dodo\server\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at F:\WebProjects\dodo\server\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (F:\WebProjects\dodo\server\node_modules\koa-session\index.js:41:13)
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at overrideMethod (F:\WebProjects\dodo\server\node_modules\koa-override\index.js:38:12)
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at bodyParser (F:\WebProjects\dodo\server\node_modules\koa-bodyparser\index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+message: "invalid csrf token"
+pid: 13864
+hostname: DESKTOP-5TBUIJO
+
+2020-02-17 15:27:14,653 WARN 13864 [-/127.0.0.1/-/0ms POST /login] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2020-02-17 15:27:14,654 WARN 13864 [-/127.0.0.1/-/1ms POST /login] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (F:\WebProjects\dodo\server\node_modules\koa\lib\context.js:97:11)
+    at Object.assertCsrf (F:\WebProjects\dodo\server\node_modules\egg-security\app\extend\context.js:162:19)
+    at csrf (F:\WebProjects\dodo\server\node_modules\egg-security\lib\middlewares\csrf.js:33:9)
+    at dispatch (F:\WebProjects\dodo\server\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at F:\WebProjects\dodo\server\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (F:\WebProjects\dodo\server\node_modules\koa-session\index.js:41:13)
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at overrideMethod (F:\WebProjects\dodo\server\node_modules\koa-override\index.js:38:12)
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at bodyParser (F:\WebProjects\dodo\server\node_modules\koa-bodyparser\index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+message: "invalid csrf token"
+pid: 13864
+hostname: DESKTOP-5TBUIJO
+
+2020-02-17 15:28:50,414 WARN 13864 [-/127.0.0.1/-/0ms POST /login] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2020-02-17 15:28:50,415 WARN 13864 [-/127.0.0.1/-/1ms POST /login] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (F:\WebProjects\dodo\server\node_modules\koa\lib\context.js:97:11)
+    at Object.assertCsrf (F:\WebProjects\dodo\server\node_modules\egg-security\app\extend\context.js:162:19)
+    at csrf (F:\WebProjects\dodo\server\node_modules\egg-security\lib\middlewares\csrf.js:33:9)
+    at dispatch (F:\WebProjects\dodo\server\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at F:\WebProjects\dodo\server\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (F:\WebProjects\dodo\server\node_modules\koa-session\index.js:41:13)
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at overrideMethod (F:\WebProjects\dodo\server\node_modules\koa-override\index.js:38:12)
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at bodyParser (F:\WebProjects\dodo\server\node_modules\koa-bodyparser\index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+message: "invalid csrf token"
+pid: 13864
+hostname: DESKTOP-5TBUIJO
+
+2020-02-17 15:43:26,231 WARN 13796 [-/127.0.0.1/-/15ms POST /login] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2020-02-17 15:43:26,234 WARN 13796 [-/127.0.0.1/-/17ms POST /login] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (F:\WebProjects\dodo\server\node_modules\koa\lib\context.js:97:11)
+    at Object.assertCsrf (F:\WebProjects\dodo\server\node_modules\egg-security\app\extend\context.js:162:19)
+    at csrf (F:\WebProjects\dodo\server\node_modules\egg-security\lib\middlewares\csrf.js:33:9)
+    at dispatch (F:\WebProjects\dodo\server\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at F:\WebProjects\dodo\server\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (F:\WebProjects\dodo\server\node_modules\koa-session\index.js:41:13)
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at overrideMethod (F:\WebProjects\dodo\server\node_modules\koa-override\index.js:38:12)
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at bodyParser (F:\WebProjects\dodo\server\node_modules\koa-bodyparser\index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+message: "invalid csrf token"
+pid: 13796
+hostname: DESKTOP-5TBUIJO
+
+2020-02-17 16:20:57,752 ERROR 7908 [-/127.0.0.1/-/6ms POST /login] nodejs.TypeError: ctx.returnBody is not a function
+    at UserController.login (F:\WebProjects\dodo\server\app\controller\user.js:20:11)
+
+pid: 7908
+hostname: DESKTOP-5TBUIJO
+
+2020-02-17 16:28:45,719 WARN 17232 [-/127.0.0.1/-/14ms POST /login] nodejs.BadRequestError: 用户名或密码错误
+    at Object.throw (F:\WebProjects\dodo\server\node_modules\koa\lib\context.js:97:11)
+    at UserController.login (F:\WebProjects\dodo\server\app\controller\user.js:24:16)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+message: "用户名或密码错误"
+pid: 17232
+hostname: DESKTOP-5TBUIJO
+
+2020-02-17 16:32:45,271 WARN 14944 [-/127.0.0.1/-/10ms POST /login] nodejs.BadRequestError: 用户名或密码错误
+    at Object.throw (F:\WebProjects\dodo\server\node_modules\koa\lib\context.js:97:11)
+    at UserController.login (F:\WebProjects\dodo\server\app\controller\user.js:18:16)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+message: "用户名或密码错误"
+pid: 14944
+hostname: DESKTOP-5TBUIJO
+
+2020-02-17 16:44:42,463 WARN 10248 [-/127.0.0.1/-/15ms POST /login] nodejs.BadRequestError: 用户名或密码错误
+    at Object.throw (F:\WebProjects\dodo\server\node_modules\koa\lib\context.js:97:11)
+    at UserController.login (F:\WebProjects\dodo\server\app\controller\user.js:18:16)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+message: "用户名或密码错误"
+pid: 10248
+hostname: DESKTOP-5TBUIJO
+
+2020-02-17 16:46:04,170 WARN 16328 [-/127.0.0.1/-/19ms POST /login] nodejs.BadRequestError: 用户名或密码错误
+    at Object.throw (F:\WebProjects\dodo\server\node_modules\koa\lib\context.js:97:11)
+    at UserController.login (F:\WebProjects\dodo\server\app\controller\user.js:19:16)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+message: "用户名或密码错误"
+pid: 16328
+hostname: DESKTOP-5TBUIJO
+
+2020-02-17 16:46:26,192 WARN 15964 [-/127.0.0.1/-/18ms POST /login] nodejs.BadRequestError: 用户名或密码错误
+    at Object.throw (F:\WebProjects\dodo\server\node_modules\koa\lib\context.js:97:11)
+    at UserController.login (F:\WebProjects\dodo\server\app\controller\user.js:19:16)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+message: "用户名或密码错误"
+pid: 15964
+hostname: DESKTOP-5TBUIJO
+
+2020-02-17 16:46:45,904 WARN 15964 [-/127.0.0.1/-/2ms POST /login] nodejs.BadRequestError: 用户名或密码错误
+    at Object.throw (F:\WebProjects\dodo\server\node_modules\koa\lib\context.js:97:11)
+    at UserController.login (F:\WebProjects\dodo\server\app\controller\user.js:19:16)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+message: "用户名或密码错误"
+pid: 15964
+hostname: DESKTOP-5TBUIJO
+
+2020-02-17 16:47:31,437 WARN 8444 [-/127.0.0.1/-/23ms POST /login] nodejs.BadRequestError: 用户名或密码错误
+    at Object.throw (F:\WebProjects\dodo\server\node_modules\koa\lib\context.js:97:11)
+    at UserController.login (F:\WebProjects\dodo\server\app\controller\user.js:19:16)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+message: "用户名或密码错误"
+pid: 8444
+hostname: DESKTOP-5TBUIJO
+
+2020-02-17 16:51:58,791 WARN 13384 [-/127.0.0.1/-/14ms POST /login] nodejs.BadRequestError: 用户名或密码错误
+    at Object.throw (F:\WebProjects\dodo\server\node_modules\koa\lib\context.js:97:11)
+    at UserController.login (F:\WebProjects\dodo\server\app\controller\user.js:19:16)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+message: "用户名或密码错误"
+pid: 13384
+hostname: DESKTOP-5TBUIJO
+
+2020-02-17 16:52:10,325 WARN 9996 [-/127.0.0.1/-/18ms POST /login] nodejs.BadRequestError: 用户名或密码错误
+    at Object.throw (F:\WebProjects\dodo\server\node_modules\koa\lib\context.js:97:11)
+    at UserController.login (F:\WebProjects\dodo\server\app\controller\user.js:19:16)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+message: "用户名或密码错误"
+pid: 9996
+hostname: DESKTOP-5TBUIJO
+
+2020-02-17 16:57:13,547 WARN 6736 [-/127.0.0.1/-/14ms POST /login] nodejs.BadRequestError: 用户名或密码错误
+    at Object.throw (F:\WebProjects\dodo\server\node_modules\koa\lib\context.js:97:11)
+    at UserController.login (F:\WebProjects\dodo\server\app\controller\user.js:18:16)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+message: "用户名或密码错误"
+pid: 6736
+hostname: DESKTOP-5TBUIJO
+
+2020-02-17 16:57:15,563 WARN 6736 [-/127.0.0.1/-/2ms POST /login] nodejs.BadRequestError: 用户名或密码错误
+    at Object.throw (F:\WebProjects\dodo\server\node_modules\koa\lib\context.js:97:11)
+    at UserController.login (F:\WebProjects\dodo\server\app\controller\user.js:18:16)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+message: "用户名或密码错误"
+pid: 6736
+hostname: DESKTOP-5TBUIJO
+
+2020-02-17 16:57:51,276 WARN 10660 [-/127.0.0.1/-/17ms POST /login] nodejs.BadRequestError: 用户名或密码错误
+    at Object.throw (F:\WebProjects\dodo\server\node_modules\koa\lib\context.js:97:11)
+    at UserController.login (F:\WebProjects\dodo\server\app\controller\user.js:19:16)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+message: "用户名或密码错误"
+pid: 10660
+hostname: DESKTOP-5TBUIJO
+
+2020-02-17 16:59:52,475 WARN 10660 [-/127.0.0.1/-/6ms POST /login] nodejs.BadRequestError: 用户名或密码错误
+    at Object.throw (F:\WebProjects\dodo\server\node_modules\koa\lib\context.js:97:11)
+    at UserController.login (F:\WebProjects\dodo\server\app\controller\user.js:19:16)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+message: "用户名或密码错误"
+pid: 10660
+hostname: DESKTOP-5TBUIJO
+
+2020-02-17 17:02:16,622 WARN 10660 [-/127.0.0.1/-/4ms POST /login] nodejs.BadRequestError: 用户名或密码错误
+    at Object.throw (F:\WebProjects\dodo\server\node_modules\koa\lib\context.js:97:11)
+    at UserController.login (F:\WebProjects\dodo\server\app\controller\user.js:19:16)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+message: "用户名或密码错误"
+pid: 10660
+hostname: DESKTOP-5TBUIJO
+
+2020-02-17 17:03:36,178 WARN 10660 [-/127.0.0.1/-/5ms POST /login] nodejs.BadRequestError: 用户名或密码错误
+    at Object.throw (F:\WebProjects\dodo\server\node_modules\koa\lib\context.js:97:11)
+    at UserController.login (F:\WebProjects\dodo\server\app\controller\user.js:19:16)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+message: "用户名或密码错误"
+pid: 10660
+hostname: DESKTOP-5TBUIJO
+
+2020-02-17 17:05:01,788 WARN 10660 [-/127.0.0.1/-/4ms POST /login] nodejs.BadRequestError: 用户名或密码错误
+    at Object.throw (F:\WebProjects\dodo\server\node_modules\koa\lib\context.js:97:11)
+    at UserController.login (F:\WebProjects\dodo\server\app\controller\user.js:19:16)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+message: "用户名或密码错误"
+pid: 10660
+hostname: DESKTOP-5TBUIJO
+
+2020-02-17 18:36:03,593 WARN 10660 [-/127.0.0.1/-/8ms POST /login] nodejs.BadRequestError: 用户名或密码错误
+    at Object.throw (F:\WebProjects\dodo\server\node_modules\koa\lib\context.js:97:11)
+    at UserController.login (F:\WebProjects\dodo\server\app\controller\user.js:19:16)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+message: "用户名或密码错误"
+pid: 10660
+hostname: DESKTOP-5TBUIJO
+
+2020-02-17 18:36:19,365 WARN 10660 [-/127.0.0.1/-/8ms POST /login] nodejs.BadRequestError: 用户名或密码错误
+    at Object.throw (F:\WebProjects\dodo\server\node_modules\koa\lib\context.js:97:11)
+    at UserController.login (F:\WebProjects\dodo\server\app\controller\user.js:19:16)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+message: "用户名或密码错误"
+pid: 10660
+hostname: DESKTOP-5TBUIJO
+
+2020-02-17 18:36:44,384 WARN 10660 [-/127.0.0.1/-/3ms POST /login] nodejs.BadRequestError: 用户名或密码错误
+    at Object.throw (F:\WebProjects\dodo\server\node_modules\koa\lib\context.js:97:11)
+    at UserController.login (F:\WebProjects\dodo\server\app\controller\user.js:19:16)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+message: "用户名或密码错误"
+pid: 10660
+hostname: DESKTOP-5TBUIJO
+
+2020-02-17 19:26:18,555 WARN 10660 [-/127.0.0.1/-/4ms POST /login] nodejs.BadRequestError: 用户名或密码错误
+    at Object.throw (F:\WebProjects\dodo\server\node_modules\koa\lib\context.js:97:11)
+    at UserController.login (F:\WebProjects\dodo\server\app\controller\user.js:19:16)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+message: "用户名或密码错误"
+pid: 10660
+hostname: DESKTOP-5TBUIJO
+
+2020-02-17 19:26:52,027 WARN 10660 [-/127.0.0.1/-/2ms POST /login?userName=admin&password=admin] nodejs.BadRequestError: 用户名或密码错误
+    at Object.throw (F:\WebProjects\dodo\server\node_modules\koa\lib\context.js:97:11)
+    at UserController.login (F:\WebProjects\dodo\server\app\controller\user.js:19:16)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+message: "用户名或密码错误"
+pid: 10660
+hostname: DESKTOP-5TBUIJO
+
+2020-02-17 19:27:23,121 WARN 10660 [-/127.0.0.1/-/2ms POST /login] nodejs.BadRequestError: 用户名或密码错误
+    at Object.throw (F:\WebProjects\dodo\server\node_modules\koa\lib\context.js:97:11)
+    at UserController.login (F:\WebProjects\dodo\server\app\controller\user.js:19:16)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+message: "用户名或密码错误"
+pid: 10660
+hostname: DESKTOP-5TBUIJO
+
+2020-02-17 19:27:34,483 WARN 10660 [-/127.0.0.1/-/3ms POST /login] nodejs.BadRequestError: 用户名或密码错误
+    at Object.throw (F:\WebProjects\dodo\server\node_modules\koa\lib\context.js:97:11)
+    at UserController.login (F:\WebProjects\dodo\server\app\controller\user.js:19:16)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+message: "用户名或密码错误"
+pid: 10660
+hostname: DESKTOP-5TBUIJO
+
+2020-02-17 19:28:11,419 WARN 10660 [-/127.0.0.1/-/3ms POST /login] nodejs.BadRequestError: 用户名或密码错误
+    at Object.throw (F:\WebProjects\dodo\server\node_modules\koa\lib\context.js:97:11)
+    at UserController.login (F:\WebProjects\dodo\server\app\controller\user.js:19:16)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+message: "用户名或密码错误"
+pid: 10660
+hostname: DESKTOP-5TBUIJO
+
+2020-02-17 19:28:43,732 WARN 10660 [-/127.0.0.1/-/2ms POST /login] nodejs.BadRequestError: 用户名或密码错误
+    at Object.throw (F:\WebProjects\dodo\server\node_modules\koa\lib\context.js:97:11)
+    at UserController.login (F:\WebProjects\dodo\server\app\controller\user.js:19:16)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+message: "用户名或密码错误"
+pid: 10660
+hostname: DESKTOP-5TBUIJO
+
+2020-02-17 19:29:05,878 WARN 10660 [-/127.0.0.1/-/4ms POST /login] nodejs.BadRequestError: 用户名或密码错误
+    at Object.throw (F:\WebProjects\dodo\server\node_modules\koa\lib\context.js:97:11)
+    at UserController.login (F:\WebProjects\dodo\server\app\controller\user.js:19:16)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+message: "用户名或密码错误"
+pid: 10660
+hostname: DESKTOP-5TBUIJO
+
+2020-02-17 19:30:16,907 WARN 10660 [-/127.0.0.1/-/3ms POST /login] nodejs.BadRequestError: 用户名或密码错误
+    at Object.throw (F:\WebProjects\dodo\server\node_modules\koa\lib\context.js:97:11)
+    at UserController.login (F:\WebProjects\dodo\server\app\controller\user.js:19:16)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+message: "用户名或密码错误"
+pid: 10660
+hostname: DESKTOP-5TBUIJO
+
+2020-02-17 19:31:10,456 WARN 10660 [-/127.0.0.1/-/34ms POST /login] nodejs.BadRequestError: 用户名或密码错误
+    at Object.throw (F:\WebProjects\dodo\server\node_modules\koa\lib\context.js:97:11)
+    at UserController.login (F:\WebProjects\dodo\server\app\controller\user.js:19:16)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+message: "用户名或密码错误"
+pid: 10660
+hostname: DESKTOP-5TBUIJO
+
+2020-02-17 19:31:28,340 WARN 10660 [-/127.0.0.1/-/3ms POST /login] nodejs.BadRequestError: 用户名或密码错误
+    at Object.throw (F:\WebProjects\dodo\server\node_modules\koa\lib\context.js:97:11)
+    at UserController.login (F:\WebProjects\dodo\server\app\controller\user.js:19:16)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+message: "用户名或密码错误"
+pid: 10660
+hostname: DESKTOP-5TBUIJO
+
+2020-02-17 19:31:45,089 WARN 10660 [-/127.0.0.1/-/2ms POST /login] nodejs.BadRequestError: 用户名或密码错误
+    at Object.throw (F:\WebProjects\dodo\server\node_modules\koa\lib\context.js:97:11)
+    at UserController.login (F:\WebProjects\dodo\server\app\controller\user.js:19:16)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+message: "用户名或密码错误"
+pid: 10660
+hostname: DESKTOP-5TBUIJO
+
+2020-02-17 19:32:06,769 WARN 10660 [-/127.0.0.1/-/3ms POST /login] nodejs.BadRequestError: 用户名或密码错误
+    at Object.throw (F:\WebProjects\dodo\server\node_modules\koa\lib\context.js:97:11)
+    at UserController.login (F:\WebProjects\dodo\server\app\controller\user.js:19:16)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+message: "用户名或密码错误"
+pid: 10660
+hostname: DESKTOP-5TBUIJO
+
+2020-02-17 19:33:04,419 WARN 10660 [-/127.0.0.1/-/3ms POST /login] nodejs.BadRequestError: 用户名或密码错误
+    at Object.throw (F:\WebProjects\dodo\server\node_modules\koa\lib\context.js:97:11)
+    at UserController.login (F:\WebProjects\dodo\server\app\controller\user.js:19:16)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+message: "用户名或密码错误"
+pid: 10660
+hostname: DESKTOP-5TBUIJO
+
+2020-02-17 19:33:36,582 WARN 7880 [-/127.0.0.1/-/35ms POST /login] nodejs.BadRequestError: 用户名或密码错误
+    at Object.throw (F:\WebProjects\dodo\server\node_modules\koa\lib\context.js:97:11)
+    at UserController.login (F:\WebProjects\dodo\server\app\controller\user.js:19:16)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+message: "用户名或密码错误"
+pid: 7880
+hostname: DESKTOP-5TBUIJO
+
+2020-02-17 19:37:03,658 WARN 7880 [-/127.0.0.1/-/3ms POST /login] nodejs.BadRequestError: 用户名或密码错误
+    at Object.throw (F:\WebProjects\dodo\server\node_modules\koa\lib\context.js:97:11)
+    at UserController.login (F:\WebProjects\dodo\server\app\controller\user.js:19:16)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+message: "用户名或密码错误"
+pid: 7880
+hostname: DESKTOP-5TBUIJO
+
+2020-02-17 19:38:41,427 WARN 7880 [-/127.0.0.1/-/2ms POST /login] nodejs.BadRequestError: 用户名或密码错误
+    at Object.throw (F:\WebProjects\dodo\server\node_modules\koa\lib\context.js:97:11)
+    at UserController.login (F:\WebProjects\dodo\server\app\controller\user.js:19:16)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+message: "用户名或密码错误"
+pid: 7880
+hostname: DESKTOP-5TBUIJO
+
+2020-02-17 19:41:42,403 WARN 15968 [-/127.0.0.1/-/16ms POST /login] nodejs.BadRequestError: Can't found upload file
+    at Object.throw (F:\WebProjects\dodo\server\node_modules\koa\lib\context.js:97:11)
+    at Object.getFileStream (F:\WebProjects\dodo\server\node_modules\egg-multipart\app\extend\context.js:212:19)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+message: "Can't found upload file"
+pid: 15968
+hostname: DESKTOP-5TBUIJO
+
+2020-02-22 11:51:57,803 ERROR 8160 [-/127.0.0.1/-/14ms POST /media-report/create] nodejs.TypeError: reportList.push is not a function
+    at Promise (F:\WebProjects\dodo\server\app\service\media_report.js:27:18)
+    at new Promise (<anonymous>)
+    at ReportServices.addToList (F:\WebProjects\dodo\server\app\service\media_report.js:26:12)
+    at ReportController.create (F:\WebProjects\dodo\server\app\controller\media_report.js:10:27)
+    at Object.callFn (F:\WebProjects\dodo\server\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\WebProjects\dodo\server\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (F:\WebProjects\dodo\server\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (F:\WebProjects\dodo\server\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa-compose\index.js:44:32)
+    at next (F:\WebProjects\dodo\server\node_modules\koa-compose\index.js:45:18)
+    at F:\WebProjects\dodo\server\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa-compose\index.js:44:32)
+    at F:\WebProjects\dodo\server\node_modules\koa-compose\index.js:36:12
+    at dispatch (F:\WebProjects\dodo\server\node_modules\@eggjs\router\lib\router.js:195:33)
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at F:\WebProjects\dodo\server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+
+pid: 8160
+hostname: DESKTOP-5TBUIJO
+
+2020-02-22 11:52:14,326 ERROR 14976 [-/127.0.0.1/-/44ms POST /media-report/create] nodejs.TypeError: reportList.push is not a function
+    at Promise (F:\WebProjects\dodo\server\app\service\media_report.js:28:18)
+    at new Promise (<anonymous>)
+    at ReportServices.addToList (F:\WebProjects\dodo\server\app\service\media_report.js:26:12)
+    at ReportController.create (F:\WebProjects\dodo\server\app\controller\media_report.js:10:27)
+    at Object.callFn (F:\WebProjects\dodo\server\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\WebProjects\dodo\server\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (F:\WebProjects\dodo\server\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (F:\WebProjects\dodo\server\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa-compose\index.js:44:32)
+    at next (F:\WebProjects\dodo\server\node_modules\koa-compose\index.js:45:18)
+    at F:\WebProjects\dodo\server\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa-compose\index.js:44:32)
+    at F:\WebProjects\dodo\server\node_modules\koa-compose\index.js:36:12
+    at dispatch (F:\WebProjects\dodo\server\node_modules\@eggjs\router\lib\router.js:195:33)
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at F:\WebProjects\dodo\server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+
+pid: 14976
+hostname: DESKTOP-5TBUIJO
+
+2020-02-22 11:55:40,318 ERROR 14976 [-/127.0.0.1/-/14ms POST /media-report/create] nodejs.TypeError: reportList.push is not a function
+    at Promise (F:\WebProjects\dodo\server\app\service\media_report.js:28:18)
+    at new Promise (<anonymous>)
+    at ReportServices.addToList (F:\WebProjects\dodo\server\app\service\media_report.js:26:12)
+    at ReportController.create (F:\WebProjects\dodo\server\app\controller\media_report.js:10:27)
+    at Object.callFn (F:\WebProjects\dodo\server\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\WebProjects\dodo\server\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (F:\WebProjects\dodo\server\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (F:\WebProjects\dodo\server\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa-compose\index.js:44:32)
+    at next (F:\WebProjects\dodo\server\node_modules\koa-compose\index.js:45:18)
+    at F:\WebProjects\dodo\server\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa-compose\index.js:44:32)
+    at F:\WebProjects\dodo\server\node_modules\koa-compose\index.js:36:12
+    at dispatch (F:\WebProjects\dodo\server\node_modules\@eggjs\router\lib\router.js:195:33)
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at F:\WebProjects\dodo\server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+
+pid: 14976
+hostname: DESKTOP-5TBUIJO
+
+2020-02-22 15:09:08,143 ERROR 15084 [-/127.0.0.1/-/14ms POST /media-report/create] nodejs.SyntaxError: Unexpected token o in JSON at position 1
+    at JSON.parse (<anonymous>)
+    at Promise (F:\WebProjects\dodo\server\app\service\media_report.js:27:25)
+    at new Promise (<anonymous>)
+    at ReportServices.addToList (F:\WebProjects\dodo\server\app\service\media_report.js:26:12)
+    at ReportController.create (F:\WebProjects\dodo\server\app\controller\media_report.js:10:27)
+    at Object.callFn (F:\WebProjects\dodo\server\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\WebProjects\dodo\server\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (F:\WebProjects\dodo\server\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (F:\WebProjects\dodo\server\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa-compose\index.js:44:32)
+    at next (F:\WebProjects\dodo\server\node_modules\koa-compose\index.js:45:18)
+    at F:\WebProjects\dodo\server\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa-compose\index.js:44:32)
+    at F:\WebProjects\dodo\server\node_modules\koa-compose\index.js:36:12
+    at dispatch (F:\WebProjects\dodo\server\node_modules\@eggjs\router\lib\router.js:195:33)
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+
+pid: 15084
+hostname: DESKTOP-5TBUIJO
+
+2020-02-22 15:10:23,391 ERROR 8532 [-/127.0.0.1/-/28ms POST /media-report/create] nodejs.SyntaxError: Unexpected token o in JSON at position 1
+    at JSON.parse (<anonymous>)
+    at Promise (F:\WebProjects\dodo\server\app\service\media_report.js:28:25)
+    at new Promise (<anonymous>)
+    at ReportServices.addToList (F:\WebProjects\dodo\server\app\service\media_report.js:26:12)
+    at ReportController.create (F:\WebProjects\dodo\server\app\controller\media_report.js:10:27)
+    at Object.callFn (F:\WebProjects\dodo\server\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\WebProjects\dodo\server\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (F:\WebProjects\dodo\server\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (F:\WebProjects\dodo\server\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa-compose\index.js:44:32)
+    at next (F:\WebProjects\dodo\server\node_modules\koa-compose\index.js:45:18)
+    at F:\WebProjects\dodo\server\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa-compose\index.js:44:32)
+    at F:\WebProjects\dodo\server\node_modules\koa-compose\index.js:36:12
+    at dispatch (F:\WebProjects\dodo\server\node_modules\@eggjs\router\lib\router.js:195:33)
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+
+pid: 8532
+hostname: DESKTOP-5TBUIJO
+
+2020-02-24 13:48:18,434 ERROR 14632 [-/127.0.0.1/-/20ms POST /media-report/image] nodejs.TypeError: the multipart request can't be consumed twice
+    at Object.multipart (F:\WebProjects\dodo\server\node_modules\egg-multipart\app\extend\context.js:168:35)
+    at Object.getFileStream (F:\WebProjects\dodo\server\node_modules\egg-multipart\app\extend\context.js:206:24)
+    at ReportController.image (F:\WebProjects\dodo\server\app\controller\media_report.js:17:30)
+    at Object.callFn (F:\WebProjects\dodo\server\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\WebProjects\dodo\server\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (F:\WebProjects\dodo\server\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (F:\WebProjects\dodo\server\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa-compose\index.js:44:32)
+    at next (F:\WebProjects\dodo\server\node_modules\koa-compose\index.js:45:18)
+    at F:\WebProjects\dodo\server\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa-compose\index.js:44:32)
+    at F:\WebProjects\dodo\server\node_modules\koa-compose\index.js:36:12
+    at dispatch (F:\WebProjects\dodo\server\node_modules\@eggjs\router\lib\router.js:195:33)
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at F:\WebProjects\dodo\server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+
+pid: 14632
+hostname: DESKTOP-5TBUIJO
+
+2020-02-24 14:20:58,437 ERROR 10676 [-/127.0.0.1/-/16ms POST /media-report/image] nodejs.TypeError: file.setEncoding is not a function
+    at ReportServices.image (F:\WebProjects\dodo\server\app\service\media_report.js:40:10)
+    at ReportController.image (F:\WebProjects\dodo\server\app\controller\media_report.js:18:37)
+    at Object.callFn (F:\WebProjects\dodo\server\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\WebProjects\dodo\server\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (F:\WebProjects\dodo\server\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (F:\WebProjects\dodo\server\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa-compose\index.js:44:32)
+    at next (F:\WebProjects\dodo\server\node_modules\koa-compose\index.js:45:18)
+    at F:\WebProjects\dodo\server\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa-compose\index.js:44:32)
+    at F:\WebProjects\dodo\server\node_modules\koa-compose\index.js:36:12
+    at dispatch (F:\WebProjects\dodo\server\node_modules\@eggjs\router\lib\router.js:195:33)
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at F:\WebProjects\dodo\server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at multipart (F:\WebProjects\dodo\server\node_modules\egg-multipart\app\middleware\multipart.js:14:12)
+
+pid: 10676
+hostname: DESKTOP-5TBUIJO
+
+2020-02-24 14:34:18,345 ERROR 1600 [-/127.0.0.1/-/17ms POST /media-report/image] nodejs.TypeError [ERR_INVALID_ARG_TYPE]: The first argument must be one of type string, Buffer, ArrayBuffer, Array, or Array-like Object. Received type object
+    at Function.from (buffer.js:232:9)
+    at ReportServices.image (F:\WebProjects\dodo\server\app\service\media_report.js:40:29)
+    at ReportController.image (F:\WebProjects\dodo\server\app\controller\media_report.js:18:37)
+    at Object.callFn (F:\WebProjects\dodo\server\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\WebProjects\dodo\server\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (F:\WebProjects\dodo\server\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (F:\WebProjects\dodo\server\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa-compose\index.js:44:32)
+    at next (F:\WebProjects\dodo\server\node_modules\koa-compose\index.js:45:18)
+    at F:\WebProjects\dodo\server\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa-compose\index.js:44:32)
+    at F:\WebProjects\dodo\server\node_modules\koa-compose\index.js:36:12
+    at dispatch (F:\WebProjects\dodo\server\node_modules\@eggjs\router\lib\router.js:195:33)
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at F:\WebProjects\dodo\server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+
+pid: 1600
+hostname: DESKTOP-5TBUIJO
+
+2020-02-24 14:34:41,530 ERROR 7376 [-/127.0.0.1/-/17ms POST /media-report/image] nodejs.TypeError [ERR_INVALID_ARG_TYPE]: The first argument must be one of type string, Buffer, ArrayBuffer, Array, or Array-like Object. Received type object
+    at Function.from (buffer.js:232:9)
+    at new Buffer (buffer.js:182:17)
+    at ReportServices.image (F:\WebProjects\dodo\server\app\service\media_report.js:40:22)
+    at ReportController.image (F:\WebProjects\dodo\server\app\controller\media_report.js:18:37)
+    at Object.callFn (F:\WebProjects\dodo\server\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\WebProjects\dodo\server\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (F:\WebProjects\dodo\server\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (F:\WebProjects\dodo\server\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa-compose\index.js:44:32)
+    at next (F:\WebProjects\dodo\server\node_modules\koa-compose\index.js:45:18)
+    at F:\WebProjects\dodo\server\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa-compose\index.js:44:32)
+    at F:\WebProjects\dodo\server\node_modules\koa-compose\index.js:36:12
+    at dispatch (F:\WebProjects\dodo\server\node_modules\@eggjs\router\lib\router.js:195:33)
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at F:\WebProjects\dodo\server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+
+pid: 7376
+hostname: DESKTOP-5TBUIJO
+
+2020-02-24 15:32:02,618 ERROR 1096 [-/127.0.0.1/-/12ms POST /media-report/image] nodejs.ENOENTError: ENOENT: no such file or directory, open 'F:\WebProjects\dodo\lizard\images\media-report\p7-bg.png'
+ENOENTError: ENOENT: no such file or directory, open 'F:\WebProjects\dodo\lizard\images\media-report\p7-bg.png'
+errno: -4058
+code: "ENOENT"
+syscall: "open"
+path: "F:\\WebProjects\\dodo\\lizard\\images\\media-report\\p7-bg.png"
+name: "ENOENTError"
+pid: 1096
+hostname: DESKTOP-5TBUIJO
+
+2020-02-24 15:32:15,832 ERROR 1096 [-/127.0.0.1/-/5ms POST /media-report/image] nodejs.ENOENTError: ENOENT: no such file or directory, open 'F:\WebProjects\dodo\lizard\images\media-report\p5-环状图.png'
+ENOENTError: ENOENT: no such file or directory, open 'F:\WebProjects\dodo\lizard\images\media-report\p5-环状图.png'
+errno: -4058
+code: "ENOENT"
+syscall: "open"
+path: "F:\\WebProjects\\dodo\\lizard\\images\\media-report\\p5-环状图.png"
+name: "ENOENTError"
+pid: 1096
+hostname: DESKTOP-5TBUIJO
+
+2020-02-28 11:56:11,114 ERROR 6196 [-/127.0.0.1/-/21ms POST /media-report/image] nodejs.ENOENTError: ENOENT: no such file or directory, open 'F:\WebProjects\dodo\client\lizard\src\img\media-report\2020-02-28\MB-P6.png'
+ENOENTError: ENOENT: no such file or directory, open 'F:\WebProjects\dodo\client\lizard\src\img\media-report\2020-02-28\MB-P6.png'
+errno: -4058
+code: "ENOENT"
+syscall: "open"
+path: "F:\\WebProjects\\dodo\\client\\lizard\\src\\img\\media-report\\2020-02-28\\MB-P6.png"
+name: "ENOENTError"
+pid: 6196
+hostname: DESKTOP-5TBUIJO
+
+2020-03-02 14:05:54,862 WARN 2756 [-/127.0.0.1/-/14ms POST /file-api/upload] nodejs.Error: Invalid filename: blob
+    at checkFile (F:\WebProjects\dodo\server\node_modules\egg-multipart\app.js:76:23)
+    at Busboy.onFile (F:\WebProjects\dodo\server\node_modules\co-busboy\index.js:101:17)
+    at Busboy.emit (events.js:189:13)
+    at Busboy.emit (F:\WebProjects\dodo\server\node_modules\busboy\lib\main.js:38:33)
+    at PartStream.<anonymous> (F:\WebProjects\dodo\server\node_modules\busboy\lib\types\multipart.js:213:13)
+    at PartStream.emit (events.js:189:13)
+    at HeaderParser.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:51:16)
+    at HeaderParser.emit (events.js:189:13)
+    at HeaderParser._finish (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:68:8)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:40:12)
+    at SBMH.emit (events.js:189:13)
+    at SBMH._sbmh_feed (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:159:14)
+    at SBMH.push (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:56:14)
+    at HeaderParser.push (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:46:19)
+    at Dicer._oninfo (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:197:25)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:127:10)
+status: 400
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 2756
+hostname: DESKTOP-5TBUIJO
+
+2020-03-02 14:05:54,873 WARN 2756 [-/127.0.0.1/-/5ms POST /file-api/upload] nodejs.Error: Invalid filename: blob
+    at checkFile (F:\WebProjects\dodo\server\node_modules\egg-multipart\app.js:76:23)
+    at Busboy.onFile (F:\WebProjects\dodo\server\node_modules\co-busboy\index.js:101:17)
+    at Busboy.emit (events.js:189:13)
+    at Busboy.emit (F:\WebProjects\dodo\server\node_modules\busboy\lib\main.js:38:33)
+    at PartStream.<anonymous> (F:\WebProjects\dodo\server\node_modules\busboy\lib\types\multipart.js:213:13)
+    at PartStream.emit (events.js:189:13)
+    at HeaderParser.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:51:16)
+    at HeaderParser.emit (events.js:189:13)
+    at HeaderParser._finish (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:68:8)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:40:12)
+    at SBMH.emit (events.js:189:13)
+    at SBMH._sbmh_feed (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:159:14)
+    at SBMH.push (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:56:14)
+    at HeaderParser.push (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:46:19)
+    at Dicer._oninfo (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:197:25)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:127:10)
+status: 400
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 2756
+hostname: DESKTOP-5TBUIJO
+
+2020-03-02 14:05:54,880 WARN 2756 [-/127.0.0.1/-/1ms POST /file-api/upload] nodejs.Error: Invalid filename: blob
+    at checkFile (F:\WebProjects\dodo\server\node_modules\egg-multipart\app.js:76:23)
+    at Busboy.onFile (F:\WebProjects\dodo\server\node_modules\co-busboy\index.js:101:17)
+    at Busboy.emit (events.js:189:13)
+    at Busboy.emit (F:\WebProjects\dodo\server\node_modules\busboy\lib\main.js:38:33)
+    at PartStream.<anonymous> (F:\WebProjects\dodo\server\node_modules\busboy\lib\types\multipart.js:213:13)
+    at PartStream.emit (events.js:189:13)
+    at HeaderParser.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:51:16)
+    at HeaderParser.emit (events.js:189:13)
+    at HeaderParser._finish (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:68:8)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:40:12)
+    at SBMH.emit (events.js:189:13)
+    at SBMH._sbmh_feed (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:159:14)
+    at SBMH.push (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:56:14)
+    at HeaderParser.push (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:46:19)
+    at Dicer._oninfo (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:197:25)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:127:10)
+status: 400
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 2756
+hostname: DESKTOP-5TBUIJO
+
+2020-03-02 14:38:39,311 WARN 13488 [-/127.0.0.1/-/12ms POST /file-api/upload] nodejs.Error: Invalid filename: blob
+    at checkFile (F:\WebProjects\dodo\server\node_modules\egg-multipart\app.js:76:23)
+    at Busboy.onFile (F:\WebProjects\dodo\server\node_modules\co-busboy\index.js:101:17)
+    at Busboy.emit (events.js:189:13)
+    at Busboy.emit (F:\WebProjects\dodo\server\node_modules\busboy\lib\main.js:38:33)
+    at PartStream.<anonymous> (F:\WebProjects\dodo\server\node_modules\busboy\lib\types\multipart.js:213:13)
+    at PartStream.emit (events.js:189:13)
+    at HeaderParser.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:51:16)
+    at HeaderParser.emit (events.js:189:13)
+    at HeaderParser._finish (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:68:8)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:40:12)
+    at SBMH.emit (events.js:189:13)
+    at SBMH._sbmh_feed (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:159:14)
+    at SBMH.push (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:56:14)
+    at HeaderParser.push (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:46:19)
+    at Dicer._oninfo (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:197:25)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:127:10)
+status: 400
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 13488
+hostname: DESKTOP-5TBUIJO
+
+2020-03-02 14:38:39,320 WARN 13488 [-/127.0.0.1/-/3ms POST /file-api/upload] nodejs.Error: Invalid filename: blob
+    at checkFile (F:\WebProjects\dodo\server\node_modules\egg-multipart\app.js:76:23)
+    at Busboy.onFile (F:\WebProjects\dodo\server\node_modules\co-busboy\index.js:101:17)
+    at Busboy.emit (events.js:189:13)
+    at Busboy.emit (F:\WebProjects\dodo\server\node_modules\busboy\lib\main.js:38:33)
+    at PartStream.<anonymous> (F:\WebProjects\dodo\server\node_modules\busboy\lib\types\multipart.js:213:13)
+    at PartStream.emit (events.js:189:13)
+    at HeaderParser.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:51:16)
+    at HeaderParser.emit (events.js:189:13)
+    at HeaderParser._finish (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:68:8)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:40:12)
+    at SBMH.emit (events.js:189:13)
+    at SBMH._sbmh_feed (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:159:14)
+    at SBMH.push (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:56:14)
+    at HeaderParser.push (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:46:19)
+    at Dicer._oninfo (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:197:25)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:127:10)
+status: 400
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 13488
+hostname: DESKTOP-5TBUIJO
+
+2020-03-02 14:38:39,323 WARN 13488 [-/127.0.0.1/-/1ms POST /file-api/upload] nodejs.Error: Invalid filename: blob
+    at checkFile (F:\WebProjects\dodo\server\node_modules\egg-multipart\app.js:76:23)
+    at Busboy.onFile (F:\WebProjects\dodo\server\node_modules\co-busboy\index.js:101:17)
+    at Busboy.emit (events.js:189:13)
+    at Busboy.emit (F:\WebProjects\dodo\server\node_modules\busboy\lib\main.js:38:33)
+    at PartStream.<anonymous> (F:\WebProjects\dodo\server\node_modules\busboy\lib\types\multipart.js:213:13)
+    at PartStream.emit (events.js:189:13)
+    at HeaderParser.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:51:16)
+    at HeaderParser.emit (events.js:189:13)
+    at HeaderParser._finish (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:68:8)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:40:12)
+    at SBMH.emit (events.js:189:13)
+    at SBMH._sbmh_feed (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:159:14)
+    at SBMH.push (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:56:14)
+    at HeaderParser.push (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:46:19)
+    at Dicer._oninfo (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:197:25)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:127:10)
+status: 400
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 13488
+hostname: DESKTOP-5TBUIJO
+
+2020-03-02 14:41:07,489 WARN 17268 [-/127.0.0.1/-/12ms POST /file-api/upload] nodejs.Error: Invalid filename: blob
+    at checkFile (F:\WebProjects\dodo\server\node_modules\egg-multipart\app.js:76:23)
+    at Busboy.onFile (F:\WebProjects\dodo\server\node_modules\co-busboy\index.js:101:17)
+    at Busboy.emit (events.js:189:13)
+    at Busboy.emit (F:\WebProjects\dodo\server\node_modules\busboy\lib\main.js:38:33)
+    at PartStream.<anonymous> (F:\WebProjects\dodo\server\node_modules\busboy\lib\types\multipart.js:213:13)
+    at PartStream.emit (events.js:189:13)
+    at HeaderParser.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:51:16)
+    at HeaderParser.emit (events.js:189:13)
+    at HeaderParser._finish (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:68:8)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:40:12)
+    at SBMH.emit (events.js:189:13)
+    at SBMH._sbmh_feed (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:159:14)
+    at SBMH.push (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:56:14)
+    at HeaderParser.push (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:46:19)
+    at Dicer._oninfo (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:197:25)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:127:10)
+status: 400
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 17268
+hostname: DESKTOP-5TBUIJO
+
+2020-03-02 14:41:07,498 WARN 17268 [-/127.0.0.1/-/3ms POST /file-api/upload] nodejs.Error: Invalid filename: blob
+    at checkFile (F:\WebProjects\dodo\server\node_modules\egg-multipart\app.js:76:23)
+    at Busboy.onFile (F:\WebProjects\dodo\server\node_modules\co-busboy\index.js:101:17)
+    at Busboy.emit (events.js:189:13)
+    at Busboy.emit (F:\WebProjects\dodo\server\node_modules\busboy\lib\main.js:38:33)
+    at PartStream.<anonymous> (F:\WebProjects\dodo\server\node_modules\busboy\lib\types\multipart.js:213:13)
+    at PartStream.emit (events.js:189:13)
+    at HeaderParser.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:51:16)
+    at HeaderParser.emit (events.js:189:13)
+    at HeaderParser._finish (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:68:8)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:40:12)
+    at SBMH.emit (events.js:189:13)
+    at SBMH._sbmh_feed (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:159:14)
+    at SBMH.push (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:56:14)
+    at HeaderParser.push (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:46:19)
+    at Dicer._oninfo (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:197:25)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:127:10)
+status: 400
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 17268
+hostname: DESKTOP-5TBUIJO
+
+2020-03-02 14:41:07,501 WARN 17268 [-/127.0.0.1/-/1ms POST /file-api/upload] nodejs.Error: Invalid filename: blob
+    at checkFile (F:\WebProjects\dodo\server\node_modules\egg-multipart\app.js:76:23)
+    at Busboy.onFile (F:\WebProjects\dodo\server\node_modules\co-busboy\index.js:101:17)
+    at Busboy.emit (events.js:189:13)
+    at Busboy.emit (F:\WebProjects\dodo\server\node_modules\busboy\lib\main.js:38:33)
+    at PartStream.<anonymous> (F:\WebProjects\dodo\server\node_modules\busboy\lib\types\multipart.js:213:13)
+    at PartStream.emit (events.js:189:13)
+    at HeaderParser.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:51:16)
+    at HeaderParser.emit (events.js:189:13)
+    at HeaderParser._finish (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:68:8)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:40:12)
+    at SBMH.emit (events.js:189:13)
+    at SBMH._sbmh_feed (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:159:14)
+    at SBMH.push (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:56:14)
+    at HeaderParser.push (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:46:19)
+    at Dicer._oninfo (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:197:25)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:127:10)
+status: 400
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 17268
+hostname: DESKTOP-5TBUIJO
+
+2020-03-02 14:41:52,338 WARN 17268 [-/127.0.0.1/-/5ms POST /file-api/upload] nodejs.Error: Invalid filename: blob
+    at checkFile (F:\WebProjects\dodo\server\node_modules\egg-multipart\app.js:76:23)
+    at Busboy.onFile (F:\WebProjects\dodo\server\node_modules\co-busboy\index.js:101:17)
+    at Busboy.emit (events.js:189:13)
+    at Busboy.emit (F:\WebProjects\dodo\server\node_modules\busboy\lib\main.js:38:33)
+    at PartStream.<anonymous> (F:\WebProjects\dodo\server\node_modules\busboy\lib\types\multipart.js:213:13)
+    at PartStream.emit (events.js:189:13)
+    at HeaderParser.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:51:16)
+    at HeaderParser.emit (events.js:189:13)
+    at HeaderParser._finish (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:68:8)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:40:12)
+    at SBMH.emit (events.js:189:13)
+    at SBMH._sbmh_feed (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:159:14)
+    at SBMH.push (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:56:14)
+    at HeaderParser.push (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:46:19)
+    at Dicer._oninfo (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:197:25)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:127:10)
+status: 400
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 17268
+hostname: DESKTOP-5TBUIJO
+
+2020-03-02 14:41:52,347 WARN 17268 [-/127.0.0.1/-/3ms POST /file-api/upload] nodejs.Error: Invalid filename: blob
+    at checkFile (F:\WebProjects\dodo\server\node_modules\egg-multipart\app.js:76:23)
+    at Busboy.onFile (F:\WebProjects\dodo\server\node_modules\co-busboy\index.js:101:17)
+    at Busboy.emit (events.js:189:13)
+    at Busboy.emit (F:\WebProjects\dodo\server\node_modules\busboy\lib\main.js:38:33)
+    at PartStream.<anonymous> (F:\WebProjects\dodo\server\node_modules\busboy\lib\types\multipart.js:213:13)
+    at PartStream.emit (events.js:189:13)
+    at HeaderParser.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:51:16)
+    at HeaderParser.emit (events.js:189:13)
+    at HeaderParser._finish (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:68:8)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:40:12)
+    at SBMH.emit (events.js:189:13)
+    at SBMH._sbmh_feed (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:159:14)
+    at SBMH.push (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:56:14)
+    at HeaderParser.push (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:46:19)
+    at Dicer._oninfo (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:197:25)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:127:10)
+status: 400
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 17268
+hostname: DESKTOP-5TBUIJO
+
+2020-03-02 14:41:52,351 WARN 17268 [-/127.0.0.1/-/2ms POST /file-api/upload] nodejs.Error: Invalid filename: blob
+    at checkFile (F:\WebProjects\dodo\server\node_modules\egg-multipart\app.js:76:23)
+    at Busboy.onFile (F:\WebProjects\dodo\server\node_modules\co-busboy\index.js:101:17)
+    at Busboy.emit (events.js:189:13)
+    at Busboy.emit (F:\WebProjects\dodo\server\node_modules\busboy\lib\main.js:38:33)
+    at PartStream.<anonymous> (F:\WebProjects\dodo\server\node_modules\busboy\lib\types\multipart.js:213:13)
+    at PartStream.emit (events.js:189:13)
+    at HeaderParser.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:51:16)
+    at HeaderParser.emit (events.js:189:13)
+    at HeaderParser._finish (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:68:8)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:40:12)
+    at SBMH.emit (events.js:189:13)
+    at SBMH._sbmh_feed (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:159:14)
+    at SBMH.push (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:56:14)
+    at HeaderParser.push (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:46:19)
+    at Dicer._oninfo (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:197:25)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:127:10)
+status: 400
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 17268
+hostname: DESKTOP-5TBUIJO
+
+2020-03-02 14:48:34,439 WARN 13028 [-/127.0.0.1/-/15ms POST /file-api/upload] nodejs.Error: Invalid filename: blob
+    at checkFile (F:\WebProjects\dodo\server\node_modules\egg-multipart\app.js:76:23)
+    at Busboy.onFile (F:\WebProjects\dodo\server\node_modules\co-busboy\index.js:101:17)
+    at Busboy.emit (events.js:189:13)
+    at Busboy.emit (F:\WebProjects\dodo\server\node_modules\busboy\lib\main.js:38:33)
+    at PartStream.<anonymous> (F:\WebProjects\dodo\server\node_modules\busboy\lib\types\multipart.js:213:13)
+    at PartStream.emit (events.js:189:13)
+    at HeaderParser.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:51:16)
+    at HeaderParser.emit (events.js:189:13)
+    at HeaderParser._finish (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:68:8)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:40:12)
+    at SBMH.emit (events.js:189:13)
+    at SBMH._sbmh_feed (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:159:14)
+    at SBMH.push (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:56:14)
+    at HeaderParser.push (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:46:19)
+    at Dicer._oninfo (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:197:25)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:127:10)
+status: 400
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 13028
+hostname: DESKTOP-5TBUIJO
+
+2020-03-02 14:48:34,448 WARN 13028 [-/127.0.0.1/-/2ms POST /file-api/upload] nodejs.Error: Invalid filename: blob
+    at checkFile (F:\WebProjects\dodo\server\node_modules\egg-multipart\app.js:76:23)
+    at Busboy.onFile (F:\WebProjects\dodo\server\node_modules\co-busboy\index.js:101:17)
+    at Busboy.emit (events.js:189:13)
+    at Busboy.emit (F:\WebProjects\dodo\server\node_modules\busboy\lib\main.js:38:33)
+    at PartStream.<anonymous> (F:\WebProjects\dodo\server\node_modules\busboy\lib\types\multipart.js:213:13)
+    at PartStream.emit (events.js:189:13)
+    at HeaderParser.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:51:16)
+    at HeaderParser.emit (events.js:189:13)
+    at HeaderParser._finish (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:68:8)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:40:12)
+    at SBMH.emit (events.js:189:13)
+    at SBMH._sbmh_feed (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:159:14)
+    at SBMH.push (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:56:14)
+    at HeaderParser.push (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:46:19)
+    at Dicer._oninfo (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:197:25)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:127:10)
+status: 400
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 13028
+hostname: DESKTOP-5TBUIJO
+
+2020-03-02 14:48:34,452 WARN 13028 [-/127.0.0.1/-/1ms POST /file-api/upload] nodejs.Error: Invalid filename: blob
+    at checkFile (F:\WebProjects\dodo\server\node_modules\egg-multipart\app.js:76:23)
+    at Busboy.onFile (F:\WebProjects\dodo\server\node_modules\co-busboy\index.js:101:17)
+    at Busboy.emit (events.js:189:13)
+    at Busboy.emit (F:\WebProjects\dodo\server\node_modules\busboy\lib\main.js:38:33)
+    at PartStream.<anonymous> (F:\WebProjects\dodo\server\node_modules\busboy\lib\types\multipart.js:213:13)
+    at PartStream.emit (events.js:189:13)
+    at HeaderParser.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:51:16)
+    at HeaderParser.emit (events.js:189:13)
+    at HeaderParser._finish (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:68:8)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:40:12)
+    at SBMH.emit (events.js:189:13)
+    at SBMH._sbmh_feed (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:159:14)
+    at SBMH.push (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:56:14)
+    at HeaderParser.push (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:46:19)
+    at Dicer._oninfo (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:197:25)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:127:10)
+status: 400
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 13028
+hostname: DESKTOP-5TBUIJO
+
+2020-03-02 14:54:39,107 WARN 10464 [-/127.0.0.1/-/11ms POST /file-api/upload] nodejs.Error: Invalid filename: blob
+    at checkFile (F:\WebProjects\dodo\server\node_modules\egg-multipart\app.js:76:23)
+    at Busboy.onFile (F:\WebProjects\dodo\server\node_modules\co-busboy\index.js:101:17)
+    at Busboy.emit (events.js:189:13)
+    at Busboy.emit (F:\WebProjects\dodo\server\node_modules\busboy\lib\main.js:38:33)
+    at PartStream.<anonymous> (F:\WebProjects\dodo\server\node_modules\busboy\lib\types\multipart.js:213:13)
+    at PartStream.emit (events.js:189:13)
+    at HeaderParser.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:51:16)
+    at HeaderParser.emit (events.js:189:13)
+    at HeaderParser._finish (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:68:8)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:40:12)
+    at SBMH.emit (events.js:189:13)
+    at SBMH._sbmh_feed (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:159:14)
+    at SBMH.push (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:56:14)
+    at HeaderParser.push (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:46:19)
+    at Dicer._oninfo (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:197:25)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:127:10)
+status: 400
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 10464
+hostname: DESKTOP-5TBUIJO
+
+2020-03-02 14:54:39,116 WARN 10464 [-/127.0.0.1/-/2ms POST /file-api/upload] nodejs.Error: Invalid filename: blob
+    at checkFile (F:\WebProjects\dodo\server\node_modules\egg-multipart\app.js:76:23)
+    at Busboy.onFile (F:\WebProjects\dodo\server\node_modules\co-busboy\index.js:101:17)
+    at Busboy.emit (events.js:189:13)
+    at Busboy.emit (F:\WebProjects\dodo\server\node_modules\busboy\lib\main.js:38:33)
+    at PartStream.<anonymous> (F:\WebProjects\dodo\server\node_modules\busboy\lib\types\multipart.js:213:13)
+    at PartStream.emit (events.js:189:13)
+    at HeaderParser.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:51:16)
+    at HeaderParser.emit (events.js:189:13)
+    at HeaderParser._finish (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:68:8)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:40:12)
+    at SBMH.emit (events.js:189:13)
+    at SBMH._sbmh_feed (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:159:14)
+    at SBMH.push (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:56:14)
+    at HeaderParser.push (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:46:19)
+    at Dicer._oninfo (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:197:25)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:127:10)
+status: 400
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 10464
+hostname: DESKTOP-5TBUIJO
+
+2020-03-02 14:54:39,119 WARN 10464 [-/127.0.0.1/-/1ms POST /file-api/upload] nodejs.Error: Invalid filename: blob
+    at checkFile (F:\WebProjects\dodo\server\node_modules\egg-multipart\app.js:76:23)
+    at Busboy.onFile (F:\WebProjects\dodo\server\node_modules\co-busboy\index.js:101:17)
+    at Busboy.emit (events.js:189:13)
+    at Busboy.emit (F:\WebProjects\dodo\server\node_modules\busboy\lib\main.js:38:33)
+    at PartStream.<anonymous> (F:\WebProjects\dodo\server\node_modules\busboy\lib\types\multipart.js:213:13)
+    at PartStream.emit (events.js:189:13)
+    at HeaderParser.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:51:16)
+    at HeaderParser.emit (events.js:189:13)
+    at HeaderParser._finish (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:68:8)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:40:12)
+    at SBMH.emit (events.js:189:13)
+    at SBMH._sbmh_feed (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:159:14)
+    at SBMH.push (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:56:14)
+    at HeaderParser.push (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:46:19)
+    at Dicer._oninfo (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:197:25)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:127:10)
+status: 400
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 10464
+hostname: DESKTOP-5TBUIJO
+
+2020-03-02 14:55:02,376 WARN 17004 [-/127.0.0.1/-/12ms POST /file-api/upload] nodejs.Error: Invalid filename: blob
+    at checkFile (F:\WebProjects\dodo\server\node_modules\egg-multipart\app.js:76:23)
+    at Busboy.onFile (F:\WebProjects\dodo\server\node_modules\co-busboy\index.js:101:17)
+    at Busboy.emit (events.js:189:13)
+    at Busboy.emit (F:\WebProjects\dodo\server\node_modules\busboy\lib\main.js:38:33)
+    at PartStream.<anonymous> (F:\WebProjects\dodo\server\node_modules\busboy\lib\types\multipart.js:213:13)
+    at PartStream.emit (events.js:189:13)
+    at HeaderParser.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:51:16)
+    at HeaderParser.emit (events.js:189:13)
+    at HeaderParser._finish (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:68:8)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:40:12)
+    at SBMH.emit (events.js:189:13)
+    at SBMH._sbmh_feed (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:159:14)
+    at SBMH.push (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:56:14)
+    at HeaderParser.push (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:46:19)
+    at Dicer._oninfo (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:197:25)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:127:10)
+status: 400
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 17004
+hostname: DESKTOP-5TBUIJO
+
+2020-03-02 14:55:02,384 WARN 17004 [-/127.0.0.1/-/2ms POST /file-api/upload] nodejs.Error: Invalid filename: blob
+    at checkFile (F:\WebProjects\dodo\server\node_modules\egg-multipart\app.js:76:23)
+    at Busboy.onFile (F:\WebProjects\dodo\server\node_modules\co-busboy\index.js:101:17)
+    at Busboy.emit (events.js:189:13)
+    at Busboy.emit (F:\WebProjects\dodo\server\node_modules\busboy\lib\main.js:38:33)
+    at PartStream.<anonymous> (F:\WebProjects\dodo\server\node_modules\busboy\lib\types\multipart.js:213:13)
+    at PartStream.emit (events.js:189:13)
+    at HeaderParser.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:51:16)
+    at HeaderParser.emit (events.js:189:13)
+    at HeaderParser._finish (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:68:8)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:40:12)
+    at SBMH.emit (events.js:189:13)
+    at SBMH._sbmh_feed (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:159:14)
+    at SBMH.push (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:56:14)
+    at HeaderParser.push (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:46:19)
+    at Dicer._oninfo (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:197:25)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:127:10)
+status: 400
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 17004
+hostname: DESKTOP-5TBUIJO
+
+2020-03-02 14:55:02,390 WARN 17004 [-/127.0.0.1/-/2ms POST /file-api/upload] nodejs.Error: Invalid filename: blob
+    at checkFile (F:\WebProjects\dodo\server\node_modules\egg-multipart\app.js:76:23)
+    at Busboy.onFile (F:\WebProjects\dodo\server\node_modules\co-busboy\index.js:101:17)
+    at Busboy.emit (events.js:189:13)
+    at Busboy.emit (F:\WebProjects\dodo\server\node_modules\busboy\lib\main.js:38:33)
+    at PartStream.<anonymous> (F:\WebProjects\dodo\server\node_modules\busboy\lib\types\multipart.js:213:13)
+    at PartStream.emit (events.js:189:13)
+    at HeaderParser.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:51:16)
+    at HeaderParser.emit (events.js:189:13)
+    at HeaderParser._finish (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:68:8)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:40:12)
+    at SBMH.emit (events.js:189:13)
+    at SBMH._sbmh_feed (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:159:14)
+    at SBMH.push (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:56:14)
+    at HeaderParser.push (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:46:19)
+    at Dicer._oninfo (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:197:25)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:127:10)
+status: 400
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 17004
+hostname: DESKTOP-5TBUIJO
+
+2020-03-02 14:59:31,434 ERROR 1504 [-/127.0.0.1/-/1ms POST /file-api/merge] nodejs.TypeError: service.file.merge is not a function
+    at FileController.merge (F:\WebProjects\dodo\server\app\controller\file.js:17:41)
+    at Object.callFn (F:\WebProjects\dodo\server\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\WebProjects\dodo\server\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (F:\WebProjects\dodo\server\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (F:\WebProjects\dodo\server\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa-compose\index.js:44:32)
+    at next (F:\WebProjects\dodo\server\node_modules\koa-compose\index.js:45:18)
+    at F:\WebProjects\dodo\server\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa-compose\index.js:44:32)
+    at F:\WebProjects\dodo\server\node_modules\koa-compose\index.js:36:12
+    at dispatch (F:\WebProjects\dodo\server\node_modules\@eggjs\router\lib\router.js:195:33)
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at F:\WebProjects\dodo\server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at i18n (F:\WebProjects\dodo\server\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 1504
+hostname: DESKTOP-5TBUIJO
+
+2020-03-02 15:18:54,605 ERROR 15288 [-/127.0.0.1/-/9ms POST /file-api/upload] nodejs.TypeError: Cannot destructure property `hash` of 'undefined' or 'null'.
+    at FileServices.upload (F:\WebProjects\dodo\server\app\service\file.js:9:29)
+    at FileController.upload (F:\WebProjects\dodo\server\app\controller\file.js:10:41)
+    at Object.callFn (F:\WebProjects\dodo\server\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\WebProjects\dodo\server\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (F:\WebProjects\dodo\server\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (F:\WebProjects\dodo\server\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa-compose\index.js:44:32)
+    at next (F:\WebProjects\dodo\server\node_modules\koa-compose\index.js:45:18)
+    at F:\WebProjects\dodo\server\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa-compose\index.js:44:32)
+    at F:\WebProjects\dodo\server\node_modules\koa-compose\index.js:36:12
+    at dispatch (F:\WebProjects\dodo\server\node_modules\@eggjs\router\lib\router.js:195:33)
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at F:\WebProjects\dodo\server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at i18n (F:\WebProjects\dodo\server\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 15288
+hostname: DESKTOP-5TBUIJO
+
+2020-03-02 15:18:54,615 ERROR 15288 [-/127.0.0.1/-/3ms POST /file-api/upload] nodejs.TypeError: Cannot destructure property `hash` of 'undefined' or 'null'.
+    at FileServices.upload (F:\WebProjects\dodo\server\app\service\file.js:9:29)
+    at FileController.upload (F:\WebProjects\dodo\server\app\controller\file.js:10:41)
+    at Object.callFn (F:\WebProjects\dodo\server\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\WebProjects\dodo\server\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (F:\WebProjects\dodo\server\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (F:\WebProjects\dodo\server\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa-compose\index.js:44:32)
+    at next (F:\WebProjects\dodo\server\node_modules\koa-compose\index.js:45:18)
+    at F:\WebProjects\dodo\server\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa-compose\index.js:44:32)
+    at F:\WebProjects\dodo\server\node_modules\koa-compose\index.js:36:12
+    at dispatch (F:\WebProjects\dodo\server\node_modules\@eggjs\router\lib\router.js:195:33)
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at F:\WebProjects\dodo\server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at i18n (F:\WebProjects\dodo\server\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 15288
+hostname: DESKTOP-5TBUIJO
+
+2020-03-02 15:18:54,620 ERROR 15288 [-/127.0.0.1/-/1ms POST /file-api/upload] nodejs.TypeError: Cannot destructure property `hash` of 'undefined' or 'null'.
+    at FileServices.upload (F:\WebProjects\dodo\server\app\service\file.js:9:29)
+    at FileController.upload (F:\WebProjects\dodo\server\app\controller\file.js:10:41)
+    at Object.callFn (F:\WebProjects\dodo\server\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\WebProjects\dodo\server\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (F:\WebProjects\dodo\server\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (F:\WebProjects\dodo\server\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa-compose\index.js:44:32)
+    at next (F:\WebProjects\dodo\server\node_modules\koa-compose\index.js:45:18)
+    at F:\WebProjects\dodo\server\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa-compose\index.js:44:32)
+    at F:\WebProjects\dodo\server\node_modules\koa-compose\index.js:36:12
+    at dispatch (F:\WebProjects\dodo\server\node_modules\@eggjs\router\lib\router.js:195:33)
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at F:\WebProjects\dodo\server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at i18n (F:\WebProjects\dodo\server\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 15288
+hostname: DESKTOP-5TBUIJO
+
+2020-03-02 15:19:39,085 ERROR 14784 [-/127.0.0.1/-/9ms POST /file-api/upload] nodejs.TypeError: Cannot destructure property `hash` of 'undefined' or 'null'.
+    at FileServices.upload (F:\WebProjects\dodo\server\app\service\file.js:9:29)
+    at FileController.upload (F:\WebProjects\dodo\server\app\controller\file.js:10:41)
+    at Object.callFn (F:\WebProjects\dodo\server\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\WebProjects\dodo\server\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (F:\WebProjects\dodo\server\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (F:\WebProjects\dodo\server\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa-compose\index.js:44:32)
+    at next (F:\WebProjects\dodo\server\node_modules\koa-compose\index.js:45:18)
+    at F:\WebProjects\dodo\server\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa-compose\index.js:44:32)
+    at F:\WebProjects\dodo\server\node_modules\koa-compose\index.js:36:12
+    at dispatch (F:\WebProjects\dodo\server\node_modules\@eggjs\router\lib\router.js:195:33)
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at F:\WebProjects\dodo\server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at i18n (F:\WebProjects\dodo\server\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 14784
+hostname: DESKTOP-5TBUIJO
+
+2020-03-02 15:19:39,094 ERROR 14784 [-/127.0.0.1/-/1ms POST /file-api/upload] nodejs.TypeError: Cannot destructure property `hash` of 'undefined' or 'null'.
+    at FileServices.upload (F:\WebProjects\dodo\server\app\service\file.js:9:29)
+    at FileController.upload (F:\WebProjects\dodo\server\app\controller\file.js:10:41)
+    at Object.callFn (F:\WebProjects\dodo\server\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\WebProjects\dodo\server\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (F:\WebProjects\dodo\server\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (F:\WebProjects\dodo\server\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa-compose\index.js:44:32)
+    at next (F:\WebProjects\dodo\server\node_modules\koa-compose\index.js:45:18)
+    at F:\WebProjects\dodo\server\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa-compose\index.js:44:32)
+    at F:\WebProjects\dodo\server\node_modules\koa-compose\index.js:36:12
+    at dispatch (F:\WebProjects\dodo\server\node_modules\@eggjs\router\lib\router.js:195:33)
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at F:\WebProjects\dodo\server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at i18n (F:\WebProjects\dodo\server\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 14784
+hostname: DESKTOP-5TBUIJO
+
+2020-03-02 15:19:39,098 ERROR 14784 [-/127.0.0.1/-/1ms POST /file-api/upload] nodejs.TypeError: Cannot destructure property `hash` of 'undefined' or 'null'.
+    at FileServices.upload (F:\WebProjects\dodo\server\app\service\file.js:9:29)
+    at FileController.upload (F:\WebProjects\dodo\server\app\controller\file.js:10:41)
+    at Object.callFn (F:\WebProjects\dodo\server\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\WebProjects\dodo\server\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (F:\WebProjects\dodo\server\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (F:\WebProjects\dodo\server\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa-compose\index.js:44:32)
+    at next (F:\WebProjects\dodo\server\node_modules\koa-compose\index.js:45:18)
+    at F:\WebProjects\dodo\server\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa-compose\index.js:44:32)
+    at F:\WebProjects\dodo\server\node_modules\koa-compose\index.js:36:12
+    at dispatch (F:\WebProjects\dodo\server\node_modules\@eggjs\router\lib\router.js:195:33)
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at F:\WebProjects\dodo\server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (F:\WebProjects\dodo\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at i18n (F:\WebProjects\dodo\server\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 14784
+hostname: DESKTOP-5TBUIJO
+
+2020-03-02 15:21:39,109 WARN 16412 [-/127.0.0.1/-/12ms POST /file-api/upload] nodejs.Error: Invalid filename: blob
+    at checkFile (F:\WebProjects\dodo\server\node_modules\egg-multipart\app.js:76:23)
+    at Busboy.onFile (F:\WebProjects\dodo\server\node_modules\co-busboy\index.js:101:17)
+    at Busboy.emit (events.js:189:13)
+    at Busboy.emit (F:\WebProjects\dodo\server\node_modules\busboy\lib\main.js:38:33)
+    at PartStream.<anonymous> (F:\WebProjects\dodo\server\node_modules\busboy\lib\types\multipart.js:213:13)
+    at PartStream.emit (events.js:189:13)
+    at HeaderParser.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:51:16)
+    at HeaderParser.emit (events.js:189:13)
+    at HeaderParser._finish (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:68:8)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:40:12)
+    at SBMH.emit (events.js:189:13)
+    at SBMH._sbmh_feed (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:159:14)
+    at SBMH.push (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:56:14)
+    at HeaderParser.push (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:46:19)
+    at Dicer._oninfo (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:197:25)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:127:10)
+status: 400
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 16412
+hostname: DESKTOP-5TBUIJO
+
+2020-03-02 15:21:39,117 WARN 16412 [-/127.0.0.1/-/3ms POST /file-api/upload] nodejs.Error: Invalid filename: blob
+    at checkFile (F:\WebProjects\dodo\server\node_modules\egg-multipart\app.js:76:23)
+    at Busboy.onFile (F:\WebProjects\dodo\server\node_modules\co-busboy\index.js:101:17)
+    at Busboy.emit (events.js:189:13)
+    at Busboy.emit (F:\WebProjects\dodo\server\node_modules\busboy\lib\main.js:38:33)
+    at PartStream.<anonymous> (F:\WebProjects\dodo\server\node_modules\busboy\lib\types\multipart.js:213:13)
+    at PartStream.emit (events.js:189:13)
+    at HeaderParser.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:51:16)
+    at HeaderParser.emit (events.js:189:13)
+    at HeaderParser._finish (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:68:8)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:40:12)
+    at SBMH.emit (events.js:189:13)
+    at SBMH._sbmh_feed (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:159:14)
+    at SBMH.push (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:56:14)
+    at HeaderParser.push (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:46:19)
+    at Dicer._oninfo (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:197:25)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:127:10)
+status: 400
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 16412
+hostname: DESKTOP-5TBUIJO
+
+2020-03-02 15:21:39,122 WARN 16412 [-/127.0.0.1/-/2ms POST /file-api/upload] nodejs.Error: Invalid filename: blob
+    at checkFile (F:\WebProjects\dodo\server\node_modules\egg-multipart\app.js:76:23)
+    at Busboy.onFile (F:\WebProjects\dodo\server\node_modules\co-busboy\index.js:101:17)
+    at Busboy.emit (events.js:189:13)
+    at Busboy.emit (F:\WebProjects\dodo\server\node_modules\busboy\lib\main.js:38:33)
+    at PartStream.<anonymous> (F:\WebProjects\dodo\server\node_modules\busboy\lib\types\multipart.js:213:13)
+    at PartStream.emit (events.js:189:13)
+    at HeaderParser.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:51:16)
+    at HeaderParser.emit (events.js:189:13)
+    at HeaderParser._finish (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:68:8)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:40:12)
+    at SBMH.emit (events.js:189:13)
+    at SBMH._sbmh_feed (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:159:14)
+    at SBMH.push (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:56:14)
+    at HeaderParser.push (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:46:19)
+    at Dicer._oninfo (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:197:25)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:127:10)
+status: 400
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 16412
+hostname: DESKTOP-5TBUIJO
+
+2020-03-02 15:22:43,581 WARN 10828 [-/127.0.0.1/-/18ms POST /file-api/upload] nodejs.Error: Invalid filename: blob
+    at checkFile (F:\WebProjects\dodo\server\node_modules\egg-multipart\app.js:76:23)
+    at Busboy.onFile (F:\WebProjects\dodo\server\node_modules\co-busboy\index.js:101:17)
+    at Busboy.emit (events.js:189:13)
+    at Busboy.emit (F:\WebProjects\dodo\server\node_modules\busboy\lib\main.js:38:33)
+    at PartStream.<anonymous> (F:\WebProjects\dodo\server\node_modules\busboy\lib\types\multipart.js:213:13)
+    at PartStream.emit (events.js:189:13)
+    at HeaderParser.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:51:16)
+    at HeaderParser.emit (events.js:189:13)
+    at HeaderParser._finish (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:68:8)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:40:12)
+    at SBMH.emit (events.js:189:13)
+    at SBMH._sbmh_feed (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:159:14)
+    at SBMH.push (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:56:14)
+    at HeaderParser.push (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:46:19)
+    at Dicer._oninfo (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:197:25)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:127:10)
+status: 400
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 10828
+hostname: DESKTOP-5TBUIJO
+
+2020-03-02 15:22:43,591 WARN 10828 [-/127.0.0.1/-/3ms POST /file-api/upload] nodejs.Error: Invalid filename: blob
+    at checkFile (F:\WebProjects\dodo\server\node_modules\egg-multipart\app.js:76:23)
+    at Busboy.onFile (F:\WebProjects\dodo\server\node_modules\co-busboy\index.js:101:17)
+    at Busboy.emit (events.js:189:13)
+    at Busboy.emit (F:\WebProjects\dodo\server\node_modules\busboy\lib\main.js:38:33)
+    at PartStream.<anonymous> (F:\WebProjects\dodo\server\node_modules\busboy\lib\types\multipart.js:213:13)
+    at PartStream.emit (events.js:189:13)
+    at HeaderParser.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:51:16)
+    at HeaderParser.emit (events.js:189:13)
+    at HeaderParser._finish (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:68:8)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:40:12)
+    at SBMH.emit (events.js:189:13)
+    at SBMH._sbmh_feed (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:159:14)
+    at SBMH.push (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:56:14)
+    at HeaderParser.push (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:46:19)
+    at Dicer._oninfo (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:197:25)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:127:10)
+status: 400
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 10828
+hostname: DESKTOP-5TBUIJO
+
+2020-03-02 15:22:43,595 WARN 10828 [-/127.0.0.1/-/2ms POST /file-api/upload] nodejs.Error: Invalid filename: blob
+    at checkFile (F:\WebProjects\dodo\server\node_modules\egg-multipart\app.js:76:23)
+    at Busboy.onFile (F:\WebProjects\dodo\server\node_modules\co-busboy\index.js:101:17)
+    at Busboy.emit (events.js:189:13)
+    at Busboy.emit (F:\WebProjects\dodo\server\node_modules\busboy\lib\main.js:38:33)
+    at PartStream.<anonymous> (F:\WebProjects\dodo\server\node_modules\busboy\lib\types\multipart.js:213:13)
+    at PartStream.emit (events.js:189:13)
+    at HeaderParser.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:51:16)
+    at HeaderParser.emit (events.js:189:13)
+    at HeaderParser._finish (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:68:8)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:40:12)
+    at SBMH.emit (events.js:189:13)
+    at SBMH._sbmh_feed (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:159:14)
+    at SBMH.push (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:56:14)
+    at HeaderParser.push (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:46:19)
+    at Dicer._oninfo (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:197:25)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:127:10)
+status: 400
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 10828
+hostname: DESKTOP-5TBUIJO
+
+2020-03-02 15:25:36,615 WARN 844 [-/127.0.0.1/-/11ms POST /file-api/upload] nodejs.Error: Invalid filename: blob
+    at checkFile (F:\WebProjects\dodo\server\node_modules\egg-multipart\app.js:76:23)
+    at Busboy.onFile (F:\WebProjects\dodo\server\node_modules\co-busboy\index.js:101:17)
+    at Busboy.emit (events.js:189:13)
+    at Busboy.emit (F:\WebProjects\dodo\server\node_modules\busboy\lib\main.js:38:33)
+    at PartStream.<anonymous> (F:\WebProjects\dodo\server\node_modules\busboy\lib\types\multipart.js:213:13)
+    at PartStream.emit (events.js:189:13)
+    at HeaderParser.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:51:16)
+    at HeaderParser.emit (events.js:189:13)
+    at HeaderParser._finish (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:68:8)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:40:12)
+    at SBMH.emit (events.js:189:13)
+    at SBMH._sbmh_feed (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:159:14)
+    at SBMH.push (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:56:14)
+    at HeaderParser.push (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:46:19)
+    at Dicer._oninfo (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:197:25)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:127:10)
+status: 400
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 844
+hostname: DESKTOP-5TBUIJO
+
+2020-03-02 15:25:36,623 WARN 844 [-/127.0.0.1/-/2ms POST /file-api/upload] nodejs.Error: Invalid filename: blob
+    at checkFile (F:\WebProjects\dodo\server\node_modules\egg-multipart\app.js:76:23)
+    at Busboy.onFile (F:\WebProjects\dodo\server\node_modules\co-busboy\index.js:101:17)
+    at Busboy.emit (events.js:189:13)
+    at Busboy.emit (F:\WebProjects\dodo\server\node_modules\busboy\lib\main.js:38:33)
+    at PartStream.<anonymous> (F:\WebProjects\dodo\server\node_modules\busboy\lib\types\multipart.js:213:13)
+    at PartStream.emit (events.js:189:13)
+    at HeaderParser.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:51:16)
+    at HeaderParser.emit (events.js:189:13)
+    at HeaderParser._finish (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:68:8)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:40:12)
+    at SBMH.emit (events.js:189:13)
+    at SBMH._sbmh_feed (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:159:14)
+    at SBMH.push (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:56:14)
+    at HeaderParser.push (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:46:19)
+    at Dicer._oninfo (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:197:25)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:127:10)
+status: 400
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 844
+hostname: DESKTOP-5TBUIJO
+
+2020-03-02 15:25:36,627 WARN 844 [-/127.0.0.1/-/2ms POST /file-api/upload] nodejs.Error: Invalid filename: blob
+    at checkFile (F:\WebProjects\dodo\server\node_modules\egg-multipart\app.js:76:23)
+    at Busboy.onFile (F:\WebProjects\dodo\server\node_modules\co-busboy\index.js:101:17)
+    at Busboy.emit (events.js:189:13)
+    at Busboy.emit (F:\WebProjects\dodo\server\node_modules\busboy\lib\main.js:38:33)
+    at PartStream.<anonymous> (F:\WebProjects\dodo\server\node_modules\busboy\lib\types\multipart.js:213:13)
+    at PartStream.emit (events.js:189:13)
+    at HeaderParser.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:51:16)
+    at HeaderParser.emit (events.js:189:13)
+    at HeaderParser._finish (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:68:8)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:40:12)
+    at SBMH.emit (events.js:189:13)
+    at SBMH._sbmh_feed (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:159:14)
+    at SBMH.push (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:56:14)
+    at HeaderParser.push (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:46:19)
+    at Dicer._oninfo (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:197:25)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:127:10)
+status: 400
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 844
+hostname: DESKTOP-5TBUIJO
+
+2020-03-02 15:31:18,024 WARN 15364 [-/127.0.0.1/-/15ms POST /file-api/upload] nodejs.Error: Invalid filename: blob
+    at checkFile (F:\WebProjects\dodo\server\node_modules\egg-multipart\app.js:79:23)
+    at Busboy.onFile (F:\WebProjects\dodo\server\node_modules\co-busboy\index.js:101:17)
+    at Busboy.emit (events.js:189:13)
+    at Busboy.emit (F:\WebProjects\dodo\server\node_modules\busboy\lib\main.js:38:33)
+    at PartStream.<anonymous> (F:\WebProjects\dodo\server\node_modules\busboy\lib\types\multipart.js:213:13)
+    at PartStream.emit (events.js:189:13)
+    at HeaderParser.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:51:16)
+    at HeaderParser.emit (events.js:189:13)
+    at HeaderParser._finish (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:68:8)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:40:12)
+    at SBMH.emit (events.js:189:13)
+    at SBMH._sbmh_feed (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:159:14)
+    at SBMH.push (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:56:14)
+    at HeaderParser.push (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:46:19)
+    at Dicer._oninfo (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:197:25)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:127:10)
+status: 400
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 15364
+hostname: DESKTOP-5TBUIJO
+
+2020-03-02 15:31:18,035 WARN 15364 [-/127.0.0.1/-/4ms POST /file-api/upload] nodejs.Error: Invalid filename: blob
+    at checkFile (F:\WebProjects\dodo\server\node_modules\egg-multipart\app.js:79:23)
+    at Busboy.onFile (F:\WebProjects\dodo\server\node_modules\co-busboy\index.js:101:17)
+    at Busboy.emit (events.js:189:13)
+    at Busboy.emit (F:\WebProjects\dodo\server\node_modules\busboy\lib\main.js:38:33)
+    at PartStream.<anonymous> (F:\WebProjects\dodo\server\node_modules\busboy\lib\types\multipart.js:213:13)
+    at PartStream.emit (events.js:189:13)
+    at HeaderParser.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:51:16)
+    at HeaderParser.emit (events.js:189:13)
+    at HeaderParser._finish (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:68:8)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:40:12)
+    at SBMH.emit (events.js:189:13)
+    at SBMH._sbmh_feed (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:159:14)
+    at SBMH.push (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:56:14)
+    at HeaderParser.push (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:46:19)
+    at Dicer._oninfo (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:197:25)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:127:10)
+status: 400
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 15364
+hostname: DESKTOP-5TBUIJO
+
+2020-03-02 15:31:18,042 WARN 15364 [-/127.0.0.1/-/4ms POST /file-api/upload] nodejs.Error: Invalid filename: blob
+    at checkFile (F:\WebProjects\dodo\server\node_modules\egg-multipart\app.js:79:23)
+    at Busboy.onFile (F:\WebProjects\dodo\server\node_modules\co-busboy\index.js:101:17)
+    at Busboy.emit (events.js:189:13)
+    at Busboy.emit (F:\WebProjects\dodo\server\node_modules\busboy\lib\main.js:38:33)
+    at PartStream.<anonymous> (F:\WebProjects\dodo\server\node_modules\busboy\lib\types\multipart.js:213:13)
+    at PartStream.emit (events.js:189:13)
+    at HeaderParser.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:51:16)
+    at HeaderParser.emit (events.js:189:13)
+    at HeaderParser._finish (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:68:8)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:40:12)
+    at SBMH.emit (events.js:189:13)
+    at SBMH._sbmh_feed (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:159:14)
+    at SBMH.push (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:56:14)
+    at HeaderParser.push (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:46:19)
+    at Dicer._oninfo (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:197:25)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:127:10)
+status: 400
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 15364
+hostname: DESKTOP-5TBUIJO
+
+2020-03-02 15:32:19,053 WARN 13016 [-/127.0.0.1/-/23ms POST /file-api/upload] nodejs.Error: Invalid filename: blob
+    at checkFile (F:\WebProjects\dodo\server\node_modules\egg-multipart\app.js:79:23)
+    at Busboy.onFile (F:\WebProjects\dodo\server\node_modules\co-busboy\index.js:101:17)
+    at Busboy.emit (events.js:189:13)
+    at Busboy.emit (F:\WebProjects\dodo\server\node_modules\busboy\lib\main.js:38:33)
+    at PartStream.<anonymous> (F:\WebProjects\dodo\server\node_modules\busboy\lib\types\multipart.js:213:13)
+    at PartStream.emit (events.js:189:13)
+    at HeaderParser.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:51:16)
+    at HeaderParser.emit (events.js:189:13)
+    at HeaderParser._finish (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:68:8)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:40:12)
+    at SBMH.emit (events.js:189:13)
+    at SBMH._sbmh_feed (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:159:14)
+    at SBMH.push (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:56:14)
+    at HeaderParser.push (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:46:19)
+    at Dicer._oninfo (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:197:25)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:127:10)
+status: 400
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 13016
+hostname: DESKTOP-5TBUIJO
+
+2020-03-02 15:32:19,062 WARN 13016 [-/127.0.0.1/-/4ms POST /file-api/upload] nodejs.Error: Invalid filename: blob
+    at checkFile (F:\WebProjects\dodo\server\node_modules\egg-multipart\app.js:79:23)
+    at Busboy.onFile (F:\WebProjects\dodo\server\node_modules\co-busboy\index.js:101:17)
+    at Busboy.emit (events.js:189:13)
+    at Busboy.emit (F:\WebProjects\dodo\server\node_modules\busboy\lib\main.js:38:33)
+    at PartStream.<anonymous> (F:\WebProjects\dodo\server\node_modules\busboy\lib\types\multipart.js:213:13)
+    at PartStream.emit (events.js:189:13)
+    at HeaderParser.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:51:16)
+    at HeaderParser.emit (events.js:189:13)
+    at HeaderParser._finish (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:68:8)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:40:12)
+    at SBMH.emit (events.js:189:13)
+    at SBMH._sbmh_feed (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:159:14)
+    at SBMH.push (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:56:14)
+    at HeaderParser.push (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:46:19)
+    at Dicer._oninfo (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:197:25)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:127:10)
+status: 400
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 13016
+hostname: DESKTOP-5TBUIJO
+
+2020-03-02 15:32:19,070 WARN 13016 [-/127.0.0.1/-/5ms POST /file-api/upload] nodejs.Error: Invalid filename: blob
+    at checkFile (F:\WebProjects\dodo\server\node_modules\egg-multipart\app.js:79:23)
+    at Busboy.onFile (F:\WebProjects\dodo\server\node_modules\co-busboy\index.js:101:17)
+    at Busboy.emit (events.js:189:13)
+    at Busboy.emit (F:\WebProjects\dodo\server\node_modules\busboy\lib\main.js:38:33)
+    at PartStream.<anonymous> (F:\WebProjects\dodo\server\node_modules\busboy\lib\types\multipart.js:213:13)
+    at PartStream.emit (events.js:189:13)
+    at HeaderParser.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:51:16)
+    at HeaderParser.emit (events.js:189:13)
+    at HeaderParser._finish (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:68:8)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:40:12)
+    at SBMH.emit (events.js:189:13)
+    at SBMH._sbmh_feed (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:159:14)
+    at SBMH.push (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:56:14)
+    at HeaderParser.push (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:46:19)
+    at Dicer._oninfo (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:197:25)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:127:10)
+status: 400
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 13016
+hostname: DESKTOP-5TBUIJO
+
+2020-03-02 15:33:05,923 WARN 3192 [-/127.0.0.1/-/16ms POST /file-api/upload] nodejs.Error: Invalid filename: blob
+    at checkFile (F:\WebProjects\dodo\server\node_modules\egg-multipart\app.js:79:23)
+    at Busboy.onFile (F:\WebProjects\dodo\server\node_modules\co-busboy\index.js:101:17)
+    at Busboy.emit (events.js:189:13)
+    at Busboy.emit (F:\WebProjects\dodo\server\node_modules\busboy\lib\main.js:38:33)
+    at PartStream.<anonymous> (F:\WebProjects\dodo\server\node_modules\busboy\lib\types\multipart.js:213:13)
+    at PartStream.emit (events.js:189:13)
+    at HeaderParser.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:51:16)
+    at HeaderParser.emit (events.js:189:13)
+    at HeaderParser._finish (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:68:8)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:40:12)
+    at SBMH.emit (events.js:189:13)
+    at SBMH._sbmh_feed (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:159:14)
+    at SBMH.push (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:56:14)
+    at HeaderParser.push (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:46:19)
+    at Dicer._oninfo (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:197:25)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:127:10)
+status: 400
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 3192
+hostname: DESKTOP-5TBUIJO
+
+2020-03-02 15:33:05,933 WARN 3192 [-/127.0.0.1/-/4ms POST /file-api/upload] nodejs.Error: Invalid filename: blob
+    at checkFile (F:\WebProjects\dodo\server\node_modules\egg-multipart\app.js:79:23)
+    at Busboy.onFile (F:\WebProjects\dodo\server\node_modules\co-busboy\index.js:101:17)
+    at Busboy.emit (events.js:189:13)
+    at Busboy.emit (F:\WebProjects\dodo\server\node_modules\busboy\lib\main.js:38:33)
+    at PartStream.<anonymous> (F:\WebProjects\dodo\server\node_modules\busboy\lib\types\multipart.js:213:13)
+    at PartStream.emit (events.js:189:13)
+    at HeaderParser.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:51:16)
+    at HeaderParser.emit (events.js:189:13)
+    at HeaderParser._finish (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:68:8)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:40:12)
+    at SBMH.emit (events.js:189:13)
+    at SBMH._sbmh_feed (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:159:14)
+    at SBMH.push (F:\WebProjects\dodo\server\node_modules\streamsearch\lib\sbmh.js:56:14)
+    at HeaderParser.push (F:\WebProjects\dodo\server\node_modules\dicer\lib\HeaderParser.js:46:19)
+    at Dicer._oninfo (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:197:25)
+    at SBMH.<anonymous> (F:\WebProjects\dodo\server\node_modules\dicer\lib\Dicer.js:127:10)
+status: 400
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 3192
+hostname: DESKTOP-5TBUIJO
+
